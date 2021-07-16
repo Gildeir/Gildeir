@@ -3,8 +3,8 @@ Gildeir/Gildeir is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <div>
-<h2 align="center">Hi 👋, I'm Gildeir L. Rodrigues </h2>
-<h3 align="center">A passionate web developer from Brazil</h3>
+<h2 align="center">Hi 👋, I'm Gildeir L. Rodrigues <br> <h3 align="center">A passionate web developer from Brazil</h3> </h2>
+
 </div>
 
 - 🌱 I’m currently learning Computer Science at University of the People
