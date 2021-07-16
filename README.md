@@ -1,25 +1,17 @@
-- 👋 Hi, I’m @Gildeir
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning Computer Science
-- 📫 How to reach me gildeirlopes@gmail.com
-
-
-
 <!---
 Gildeir/Gildeir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ![Gildeir's GitHub stats](https://github-readme-stats.vercel.app/api?username=gildeir&show_icons=true&theme=algolia)
 
+![image](https://user-images.githubusercontent.com/23014173/125979939-f58c7319-ec1a-4e8b-bee8-3a3ffa59bbae.png)
 
-<h1 align="center">Hi 👋, I'm Gildeir L. Rodrigues</h1>
+<h2 align="center">H2 👋, I'm Gildeir L. Rodrigues</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Computer Science**
-
-- 💬 Ask me about **Anything!**
-
-- 📫 How to reach me **gildeirlopes@gmail.com**
+- 🌱 I’m currently learning Computer Science at University of the People
+- 📫 How to reach me gildeirlopes@gmail.com
+- 👔 Professional Network: www.linkedin.com/in/gildeir
 
 
 <h3 align="left">Languages and Tools:</h3>
