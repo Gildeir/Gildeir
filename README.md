@@ -3,13 +3,10 @@ Gildeir/Gildeir is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-x-special/nautilus-clipboard
-copy
-file:///home/gildeir/Downloads/giphy.gif
+<h2 align="center">Hi 👋, I'm Gildeir L. Rodrigues</h2>
 ![giphy](https://user-images.githubusercontent.com/23014173/125981229-ea9ed2d1-0cb2-461f-93d4-c713c8316530.gif)
 
 
-<h2 align="center">Hi 👋, I'm Gildeir L. Rodrigues</h2>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
 - 🌱 I’m currently learning Computer Science at University of the People
