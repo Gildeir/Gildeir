@@ -4,7 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h2 align="center">Hi 👋, I'm Gildeir L. Rodrigues</h2>
-![giphy](https://user-images.githubusercontent.com/23014173/125981229-ea9ed2d1-0cb2-461f-93d4-c713c8316530.gif)
+
+file:///home/gildeir/Downloads/giphy.gif
+![giphy](https://user-images.githubusercontent.com/23014173/125981414-4a2840d8-f82c-4523-8dd7-f68f78ca8536.gif)
 
 
 <h3 align="center">A passionate web developer from Brazil</h3>
