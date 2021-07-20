@@ -2,7 +2,12 @@
 Gildeir/Gildeir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-   ![giphy align="center"](https://user-images.githubusercontent.com/23014173/126249448-f92823e0-6fe5-4274-b2cb-a9a67948beb1.gif)
+
+<div align="center">
+      ![giphy align="center"](https://user-images.githubusercontent.com/23014173/126249448-f92823e0-6fe5-4274-b2cb-a9a67948beb1.gif)
+
+   
+   <\div>
 
 <div>  
 </div>
