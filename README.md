@@ -4,8 +4,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <div>
 
+  ![giphy](https://user-images.githubusercontent.com/23014173/126249448-f92823e0-6fe5-4274-b2cb-a9a67948beb1.gif)
+
+  
 <h2 align="center">Hi 👋, I'm Gildeir L. Rodrigues <br> A passionate web developer from Brazil</h2>
-https://user-images.githubusercontent.com/23014173/126249182-944f7140-667a-45dc-b482-9c0d6f4073e8.png
 
 </div>
 
