@@ -2,14 +2,12 @@
 Gildeir/Gildeir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div>
+<div>  
+<h2 align="center">Hi 👋, I'm Gildeir L. Rodrigues <br> A passionate web developer from Brazil</h2>
+</div>
+
 
   ![giphy](https://user-images.githubusercontent.com/23014173/126249448-f92823e0-6fe5-4274-b2cb-a9a67948beb1.gif)
-
-  
-<h2 align="center">Hi 👋, I'm Gildeir L. Rodrigues <br> A passionate web developer from Brazil</h2>
-
-</div>
 
 - 🌱 I’m currently learning Computer Science at University of the People
 - 📫 How to reach me gildeirlopes@gmail.com
