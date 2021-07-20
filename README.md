@@ -4,14 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-      ![giphy](https://user-images.githubusercontent.com/23014173/126249448-f92823e0-6fe5-4274-b2cb-a9a67948beb1.gif)   
 
-
-<div>  
-</div>
-      <h2 
-    align="center">Hi 👋, I'm Gildeir L. Rodrigues <br> A passionate web developer from Brazil
-  </h2>
+    <h2 align="center">Hi 👋, I'm Gildeir L. Rodrigues <br> A passionate web developer from Brazil </h2>
 
 - 🌱 I’m currently learning Computer Science at University of the People
 - 📫 How to reach me gildeirlopes@gmail.com
