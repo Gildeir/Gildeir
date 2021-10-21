@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me gildeirlopes@gmail.com
 - 👔 Professional Network: www.linkedin.com/in/gildeir
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -26,5 +25,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-
 </p>
+
+![Gildeir's GitHub stats](https://github-readme-stats.vercel.app/api?username=gildeir&show_icons=true&theme=radical)
+
