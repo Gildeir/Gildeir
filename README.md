@@ -4,12 +4,17 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div>
-    <h2 align="center">Hi 👋, I'm Gildeir L. Rodrigues <br> A passionate web developer from Brazil </h2>
+    <h2 align="left">Hi 👋, I'm Gildeir L. Rodrigues <br> A passionate web developer from Brazil </h2>
 </div>
 
+<img align="center" alt="GIF" src="https://freight.cargo.site/w/750/i/35b8679078f4203cb90e0ecab263763db95be8544c6dc0f81ed1a271ee2fcfb6/Sony_Creation.gif" width="600px" />
+
+
+
+- 💼 I am a full-stack web developer providing solutions with technologies like React, Node.js, Express.js, MongoDB, MySQL...
 - 🌱 I’m currently learning Computer Science at University of the People
 - 📫 How to reach me gildeirlopes@gmail.com
-- 👔 Professional Network: www.linkedin.com/in/gildeir
+- 👔 Professional Network: www.linkedin.com/in/gildeir 
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -26,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
+
 
 ![Gildeir's GitHub stats](https://github-readme-stats.vercel.app/api?username=gildeir&show_icons=true&theme=radical)
 
