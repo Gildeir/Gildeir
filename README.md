@@ -5,7 +5,7 @@
 
 
 - 💼 I am a full-stack web developer providing solutions with technologies like React, Node.js, Express.js, MongoDB, MySQL...
-- 🌱 I’m currently learning Computer Science at University of the People
+- 🌱 I’m also learning Computer Science at University of the People
 - 📫 How to reach me gildeirlopes@gmail.com
 - 👔 Professional Network: www.linkedin.com/in/gildeir 
 
