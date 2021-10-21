@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div>
-    <h2 align="left">Hi 👋, I'm Gildeir L. Rodrigues <br> A passionate web developer from Brazil </h2>
+    <h3 align="center">Hi 👋, I'm Gildeir L. Rodrigues <br> A passionate web developer from Brazil </h3>
 </div>
 
 <img align="center" alt="GIF" src="https://freight.cargo.site/w/750/i/35b8679078f4203cb90e0ecab263763db95be8544c6dc0f81ed1a271ee2fcfb6/Sony_Creation.gif" width="600px" />
