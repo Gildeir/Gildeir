@@ -2,7 +2,7 @@
 
 - 💼 I am a software engineer specializing in **C# and .NET**, building scalable and high-performance applications.  
 - 🔹 Experienced in **.NET Core, ASP.NET, Entity Framework, SQL Server, PostgreSQL, MongoDB, RabbitMQ, Docker, Kubernetes**.  
-- ⚡ Passionate about **Software architecture, design patterns and best practices like SOLID principles, TDD, and DDD** to build maintainable and scalable applications..  
+- ⚡ Passionate about **Software architecture, design patterns and best practices like SOLID principles, TDD, and DDD** to build maintainable and scalable applications.
 - 🌱 Currently studying **Computer Science at University of the People**.  
 - 📫 How to reach me: **gildeirlopes@gmail.com**  
 - 👔 Professional Network: [www.linkedin.com/in/gildeir](https://www.linkedin.com/in/gildeir)  
