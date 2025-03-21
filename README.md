@@ -1,7 +1,3 @@
-<div> 
-  <h3 align="center">Hi, I'm Gildeir L. Rodrigues <br> A Software Engineer from Brazil </h3> 
-</div>
-
 <img alt="GIF" src="https://freight.cargo.site/w/750/i/35b8679078f4203cb90e0ecab263763db95be8544c6dc0f81ed1a271ee2fcfb6/Sony_Creation.gif" width="800px" />
 
 - 💼 I am a software engineer specializing in **C# and .NET**, building scalable and high-performance applications.  
